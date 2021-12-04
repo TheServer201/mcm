@@ -1,5 +1,7 @@
 # Multiple constant multiplication problem
 
+Only support single constant multiplication problem for now
+
 # How to use
 
 1. Setup a nightly installation of Rust using [Rustup](https://rustup.rs/).
